@@ -1,0 +1,14 @@
+header {
+  padding-top: 50px;
+}
+.container-chart {
+  width: 100%;
+}
+.country {
+  margin-top: 100px;
+}
+.detail {
+  height: 30px;
+  width: 30px;
+  float: right;
+}
